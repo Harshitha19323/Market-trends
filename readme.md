@@ -1,4 +1,4 @@
-#Real-Time Competitor Analysis & Market Trends
+Market Trends analysis
 
 Overview
 
